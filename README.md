@@ -1,5 +1,10 @@
 # 🎨 Op Art Animation in Blender with Python 🌀  
 
+<p align="center">
+  <img src="images/image.jpg" alt="Op Art Animation" width="500">
+</p>
+
+
 ## 🎭 Exploring Creative Chaos in Technical Art  
 
 This project is an experimental dive into **Op Art (Optical Art)**, a mesmerizing artistic movement that gained popularity in the 20th century. Op Art plays with visual perception through geometric patterns, contrasts, and movement illusions. But what if we mix this **artistic anarchy** with modern tools like **Blender** and **ChatGPT**? 🤯  
