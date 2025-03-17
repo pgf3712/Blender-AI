@@ -1,7 +1,7 @@
 # 🎨 Op Art Animation in Blender with Python 🌀  
 
 <p align="center">
-  <img src="images/image.jpg" alt="Op Art Animation" width="500">
+  <img src="images/image.jpg" alt="Op Art Animation">
 </p>
 
 
