@@ -32,3 +32,8 @@ With **just a script and Blender**, I generated a **dynamic, colorful, and hypno
 
 This is just the beginning of a **fun and limitless journey** in **Technical Art**. Let’s keep experimenting, breaking rules, and creating **awesome visual illusions**! 🚀🎭  
 
+<p align="center">
+  <img src="images/image_2.jpg" alt="Op Art Animation">
+</p>
+
+
